@@ -1,4 +1,4 @@
-# Assistant Client
+# Assistant client
 The client for the assistant server.
 
 # Setting up
